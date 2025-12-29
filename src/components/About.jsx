@@ -42,7 +42,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-     I’m Cait Bobby,a 21 year old creative, currently in my final semester of B.Voc Digital Media and Animation at St. Joseph’s University. I started my journey as a Graphic Designer and Art Director in films, and over time, I expanded into motion graphics and title design. This helped me build a diverse skill set across digital media. As I gained more experience, I took on more active art direction roles in film projects, combining storytelling with technical creativity to bring projects to life. I’m passionate about both art and innovation, and I’m continuously growing as a multimedia artist with a strong focus on 3D art, animation, and motion graphics.
+     I’m Cait Bobby,a 21 year old creative, currently in my final semester of B.Voc Digital Media and Animation at St. Joseph’s University. I started my journey as a Graphic Designer and Art Director in films, and over time, I expanded into motion graphics and title design. This helped me build a diverse skill set across digital media. As I gained more experience, I took on more active art direction roles in film projects, combining storytelling with technical creativity to bring projects to life. I’m passionate about both art and innovation, and I’m continuously growing as a multimedia artist with a strong focus on Designing, art direction and Immersive media.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map( (service, index) => (

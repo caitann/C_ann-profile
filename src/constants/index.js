@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "3D Artiist",
+      title: "Visual Designer",
       icon: web,
     },
     {
-      title: "Art Director",
+      title: "AR & VR",
       icon: mobile,
     },
     {
-      title: "Motion Graphics Artist",
+      title: "Animator",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Art Director",
       icon: creator,
     },
   ];
@@ -130,7 +130,7 @@ import {
     },
     {
       title: "Production Designer",
-      company_name: "Short film: Happily Married",
+      company_name: "OG Monks Production: Happily Married",
       icon: "Documentary",
       iconBg: "#E6DEDD",
       date: "March 2025",
@@ -143,7 +143,7 @@ import {
     },
     {
       title: "Art Director",
-      company_name: "Short Films: Play,Pause,Pulse; Adrishya Chumarugal(Invisible walls), Veetuchumattukar, Happily Married,Project Z, What Remains After. ",
+      company_name: "OG Monks Production, AJ Productions, Boiling Sambaar Productions: Play,Pause,Pulse; Adrishya Chumarugal(Invisible walls), Veetuchumattukar, Happily Married,Project Z, What Remains After. ",
       icon: "movie",
       iconBg: "#383E56",
       date: "2024 Sept - Present",
@@ -166,32 +166,7 @@ import {
     },
   ];
   
-  const testimonials = [
-    {
-      testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Cait proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Cait does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Cait optimized our website, our traffic increased by 50%. Can't thank them enough.",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
-  ];
+ 
   
   const projects = [
     {
@@ -218,7 +193,7 @@ import {
     {
       name: "Solar System AR",
       description:
-        "An Augmented REality experience for students to learn about Solar System.",
+        "An Augmented Reality experience for students to learn about Solar System.",
       tags: [
         {
           name: "react",
@@ -259,4 +234,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, projects };
